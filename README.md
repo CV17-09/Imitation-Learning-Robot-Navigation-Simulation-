@@ -1,4 +1,3 @@
 # Imitation-Learning-Robot-Navigation-Simulation-
-
-09/11/2026  
+october 2026
 A simulation-based robotics project where a robot learns to navigate to a goal by imitating human demonstrations.
