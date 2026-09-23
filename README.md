@@ -33,7 +33,3 @@ The main objectives of this project are to:
 * Evaluate whether the learned policy successfully guides the robot toward its goal.
 * Explore the strengths and limitations of behavioral cloning for robotic control.
 
-## What Is Imitation Learning?
-
-Imitation Learning is a machine-learning technique where
-
