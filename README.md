@@ -1,6 +1,6 @@
 # Imitation Learning Robot Navigation Simulation
 
-A simulation-based robotics project where an autonomous robot learns to navigate toward a goal by imitating human demonstrations.
+review 10 - A simulation-based robotics project where an autonomous robot learns to navigate toward a goal by imitating human demonstrations.
 
 Instead of manually programming every navigation rule, the robot learns a policy from examples of human-controlled navigation. The project demonstrates the fundamentals of **Imitation Learning**, **Behavioral Cloning**, **Robot Navigation**, and **Machine Learning** in a simulated environment.
 
